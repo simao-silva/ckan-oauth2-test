@@ -1,0 +1,1 @@
+-e git+https://github.com/conwetlab/ckanext-oauth2.git@bf07870b4fda9d9028af1e8367a622a57024b9a4#egg=ckanext-oauth2
